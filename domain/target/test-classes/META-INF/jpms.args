@@ -1,0 +1,4 @@
+--patch-module
+co.com.arquitectura.domain=_
+--add-reads
+co.com.arquitectura.domain=ALL-UNNAMED

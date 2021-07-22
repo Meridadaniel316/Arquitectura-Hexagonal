@@ -1,0 +1,6 @@
+domain\service\BooksServiceFactory.class
+domain\service\BooksServiceImpl.class
+domain\repository\BooksRepository.class
+module-info.class
+domain\data\Book.class
+domain\service\BooksService.class
